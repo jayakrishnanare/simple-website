@@ -1,0 +1,28 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background: linear-gradient()
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    background: linear-gradient(45deg,red,black,red);
+    color: aliceblue;
+    font-family: sans-serif 'Courier New', Courier, monospace;
+    border-radius: 50%;
+    padding: 10px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 0 0 10px black;
+}
+table{
+    width: 100%;
+}
+img{
+    border-radius: 20px;
+    box-shadow: 0  0 10px black;
+}
